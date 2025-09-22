@@ -1,0 +1,8 @@
+openai
+ipykernel
+python_dotenv
+ollama
+fastapi
+uvicorn
+streamlit
+requests
